@@ -1,4 +1,4 @@
-# Marks-Visulization-into-Excel-using-selenium
+# Marks-Visualization-into-Excel-using-selenium
 
 
 We are collecting result of 3rd semester b-tech(2019) from biet jhansi.([BIET RESULT](http://www.bietjhs.ac.in/result2019/GetResultodd.aspx))
